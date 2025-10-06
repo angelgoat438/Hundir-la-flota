@@ -9,6 +9,7 @@ print("VAMOOOOS A POR ELLOOOOSS !!!!")
 
 
 # ----------------- Fase inicial ---------------------
+# hola
 
 def crear_tablero(lado=10):
     return np.full((lado, lado), " ")
